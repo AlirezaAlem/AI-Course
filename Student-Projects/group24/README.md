@@ -11,7 +11,7 @@ An intelligent Telegram bot that analyzes images with multiple people and plays 
 
 **Group 24**
 
-- Mohammad amin Jafarian (@BaziForYou)
+- Mohammad amin Jafarian ([@BaziForYou](https://github.com/BaziForYou))
 
 ## Features
 
